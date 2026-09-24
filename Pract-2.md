@@ -1,4 +1,3 @@
-Here is the complete, structured layout for your Practical 2: Privacy Impact Assessment (PIA) report written in English. This template uses a Smart AI-Driven Attendance System as a concrete academic case study to demonstrate how a PIA operates in practice.
 ------------------------------
 ## Practical 2: Privacy Impact Assessment (PIA)
 Objective: To conduct a Privacy Impact Assessment (PIA) on a proposed or newly deployed technology system, identify potential privacy risks associated with processing user data, and design effective mitigation strategies.
